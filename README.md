@@ -5,7 +5,7 @@ Hi, I’m Piotr - a middle-aged clerk, and after-hours FOSS developer. I’m int
 - I use [sway](https://github.com/swaywm/sway) on [Arch Linux](https://archlinux.org).
 - I'm a member of the [ArchLabs Linux](https://archlabslinux.com) team.
 - I'm working on the GTK shell for sway, called [nwg-shell](https://github.com/nwg-piotr/nwg-shell).
-- I prefer python over shell scripting and golang over C.
+- I prefer python to shell scripting and golang to C.
 
 How to reach me:
 

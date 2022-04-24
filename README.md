@@ -9,8 +9,8 @@ Hi, I’m Piotr - a middle-aged clerk, and after-hours FOSS developer. I’m int
 
 How to reach me:
 
-- submit an issue on GitHub on the appropriate project page (preferred), or
-- drop me a line at nwg.piotr@gmail.com
+- Submit an issue on GitHub on the appropriate project page (preferred), or
+- drop me a line at nwg.piotr@gmail.com.
 
 <!---
 nwg-piotr/nwg-piotr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

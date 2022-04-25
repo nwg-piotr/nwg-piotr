@@ -1,6 +1,6 @@
 Hi, I’m Piotr - a middle-aged clerk, and after-hours FOSS developer. I’m interested in Linux, Wayland & GTK.
 
-<img src="https://raw.githubusercontent.com/nwg-piotr/nwg-shell-resources/master/images/smee.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/nwg-piotr/nwg-shell-resources/master/images/smee.jpg" width="200" />
 
 - I use [sway](https://github.com/swaywm/sway) on [Arch Linux](https://archlinux.org).
 - I'm a member of the [ArchLabs Linux](https://archlabslinux.com) team.

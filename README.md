@@ -6,7 +6,8 @@ Hi, I’m Piotr - a middle-aged clerk, and after-hours FOSS developer. I’m int
 
 How to reach me:
 
-- Submit an issue on GitHub on the appropriate project page, or
+- Join the nwg-shell [Discussions](https://github.com/nwg-piotr/nwg-shell/discussions), or
+- submit an issue on GitHub on the appropriate project page, or
 - drop me a line at nwg.piotr@gmail.com.
 
 <!---

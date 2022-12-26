@@ -18,4 +18,4 @@ nwg-piotr/nwg-piotr is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Or just find me on Mastodon: [@nwgpiotr@fosstodon.org](https://fosstodon.org/@nwgpiotr)
+Or just find me on Mastodon: <a rel="me" href="https://fosstodon.org/@nwgpiotr">@nwgpiotr@fosstodon.org</a>

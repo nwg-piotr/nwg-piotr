@@ -11,11 +11,9 @@ How to reach me:
 
 - Join the nwg-shell [Discussions](https://github.com/nwg-piotr/nwg-shell/discussions), or
 - submit an issue on GitHub on the appropriate project page, or
-- drop me a line at nwg.piotr@gmail.com.
+- drop me a line by email.
 
 <!---
 nwg-piotr/nwg-piotr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Or just find me on Mastodon: [fosstodon.org/@nwgpiotr](https://fosstodon.org/@nwgpiotr).

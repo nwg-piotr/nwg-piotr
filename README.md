@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/20579136/190602696-742e6078-0868-4e51-a0b5-d6276026cc56.png" align="right" width=128></br>
 Hi, I’m Piotr - a middle-aged clerk and after-hours FOSS developer. I’m interested in Linux, Wayland & GTK.
 
 - I use [sway](https://github.com/swaywm/sway) and [Hyprland](https://github.com/hyprwm/Hyprland) on [Arch Linux](https://archlinux.org);

@@ -1,7 +1,7 @@
 Hi, I’m Piotr - a middle-aged clerk and after-hours FOSS developer. I’m interested in Linux, Wayland & GTK.
 
 - I use [sway](https://github.com/swaywm/sway) and [Hyprland](https://github.com/hyprwm/Hyprland) on [Arch Linux](https://archlinux.org);
-- I have been working on the GTK shell for sway called [nwg-shell](https://github.com/nwg-piotr/nwg-shell);
+- I have been working on the GTK shell for sway and Hyprland called [nwg-shell](https://github.com/nwg-piotr/nwg-shell);
 - I prefer python to shell scripting and golang to C.
 
 How to reach me:

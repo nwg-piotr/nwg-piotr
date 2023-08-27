@@ -8,7 +8,7 @@ How to reach me:
 
 - Join the nwg-shell [Discussions](https://github.com/nwg-piotr/nwg-shell/discussions), or
 - submit an issue on GitHub on the appropriate project page, or
-- find me on the nwg-shell [Matrix space](https://matrix.to/#/@nwg-piotr:matrix.org)
+- find me on the nwg-shell [Matrix space](https://matrix.to/#/@nwg-piotr:matrix.org), or
 - drop me a line by email.
 
 Do not invite me to a live chat, unless you have diction like John Hurt. I'm quite useless at listening to English.

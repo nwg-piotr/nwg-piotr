@@ -11,7 +11,7 @@ How to reach me:
 - find me in the nwg-shell [Matrix space](https://matrix.to/#/@nwg-piotr:matrix.org), or
 - drop me a line by email.
 
-Do not invite me to a live chat, unless you have diction like John Hurt. I'm quite useless at listening to English.
+Do not invite me to a live chat, unless you have diction like [sir John Vincent Hurt](https://en.wikipedia.org/wiki/John_Hurt). I'm quite useless at listening to English.
 
 <!---
 nwg-piotr/nwg-piotr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

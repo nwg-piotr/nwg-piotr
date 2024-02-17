@@ -13,6 +13,10 @@ How to reach me:
 
 Do not invite me to a live chat, unless you have diction like [sir John Vincent Hurt](https://en.wikipedia.org/wiki/John_Hurt). I'm quite useless at listening to English.
 
+If you'd like to buy me a coffee, you may use GitHub Sponsors (link in the left column) or Liberapay:
+
+<a href="https://liberapay.com/nwg/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 <!---
 nwg-piotr/nwg-piotr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

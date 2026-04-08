@@ -6,10 +6,9 @@ Hi, I’m Piotr - a middle-aged clerk and after-hours FOSS developer. I’m inte
 
 How to reach me:
 
-- Join the nwg-shell [Discussions](https://github.com/nwg-piotr/nwg-shell/discussions), or
-- submit an issue on GitHub on the appropriate project page, or
-- find me in the nwg-shell [Matrix space](https://matrix.to/#/@nwg-piotr:matrix.org), or
-- drop me a line by email.
+- Find me on IRC: #nwg-shell on OFTC <a href="https://webchat.oftc.net/?channels=nwg-shell" target="_blank"><img src="https://img.shields.io/badge/IRC-OFTC-blue?style=for-the-badge&logo=irc&logoColor=white" alt="IRC #nwg-shell" height=24 valign="middle"></a>, or
+- join the nwg-shell [Discussions](https://github.com/nwg-piotr/nwg-shell/discussions), or
+- submit an issue on GitHub on the appropriate project page.
 
 Do not invite me to a live chat, unless you have diction like [sir John Vincent Hurt](https://en.wikipedia.org/wiki/John_Hurt). I'm quite useless at listening to English.
 
